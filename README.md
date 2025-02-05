@@ -3,6 +3,7 @@ Hey, my name is Jules !<br>
 📚 I'm a student at Gustave Eiffel University in France.<br>
 🌱 I’m currently learning Javascript, Typescript and their frameworks. <br>
 🔭 At the moment, I’m working on multiple Uni Projects.<br>
+⚡ Fun fact : I actually comment my code !<br>
 
 ⏳ Working hard...
 
