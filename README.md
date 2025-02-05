@@ -2,8 +2,9 @@
 Hey, my name is Jules !<br>
 📚 I'm a student at Gustave Eiffel University in France.<br>
 🌱 I’m currently learning Javascript, Typescript and their frameworks. <br>
-🔭 I’m currently working on multiple Uni Projects.<br>
+🔭 At the moment, I’m working on multiple Uni Projects.<br>
 
+⏳ Working hard...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/injulesrenaudgrange) 
